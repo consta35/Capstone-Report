@@ -7,3 +7,18 @@ Pregnant guinea pigs received 3 courses of betamethasone (Beta;1mg/kg) or saline
 
 ## Limitations:
 Due to the high dimensionality of the data set, paired with the low number of samples, there is a propensity for any model to over-fit the data. This is a major concern as this would indicate that the results observed from these analyses would not generalize to future data sets. Although Leave One Out cross validation was employed to determine whether the model was over-fit, the results from this statistical tool do not demonstrate with high certainty that the model is not over-fit. The best way to truly validate the model will be to generate a novel data set upon which to test the model’s accuracy. 
+
+## Citations:
+1.	French, N.P., et al., Repeated antenatal corticosteroids: effects on cerebral palsy and childhood behavior. Am J Obstet Gynecol, 2004. 190(3): p. 588-95.
+2.	Glover, V., Annual Research Review: Prenatal stress and the origins of psychopathology: an evolutionary perspective. J Child Psychol Psychiatry, 2011. 52(4): p. 356-67.
+3.	Alexander, N., et al., Impact of antenatal synthetic glucocorticoid exposure on endocrine stress reactivity in term-born children. J Clin Endocrinol Metab, 2012. 97(10): p. 3538-44.
+4.	Kapoor, A., S. Petropoulos, and S.G. Matthews, Fetal programming of hypothalamic-pituitary-adrenal (HPA) axis function and behavior by synthetic glucocorticoids. Brain Res Rev, 2008. 57(2): p. 586-95.
+5.	Fowden, A.L., J. Li, and A.J. Forhead, Glucocorticoids and the preparation for life after birth: are there long-term consequences of the life insurance? Proc Nutr Soc, 1998. 57(1): p. 113-22.
+6.	Trapnell, C., et al., Differential gene and transcript expression analysis of RNA-seq experiments with TopHat and Cufflinks. Nat Protoc, 2012. 7(3): p. 562-78.
+7.	Afgan, E., et al., The Galaxy platform for accessible, reproducible and collaborative biomedical analyses: 2016 update. Nucleic Acids Research, 2016. 44(W1): p. W3-W10.
+8.	Lawrence, M., et al., Software for Computing and Annotating Genomic Ranges. PLoS Comput Biol, 2013. 9(8): p. e1003118.
+9.	Love, M.I., W. Huber, and S. Anders, Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biol, 2014. 15(12): p. 550.
+10.	Risso, D., et al., Normalization of RNA-seq data using factor analysis of control genes or samples. Nat Biotechnol, 2014. 32(9): p. 896-902.
+11.	Robinson, M.D., D.J. McCarthy, and G.K. Smyth, edgeR: a Bioconductor package for differential expression analysis of digital gene expression data. Bioinformatics, 2010. 26(1): p. 139-40.
+12.	Zhou, X., H. Lindsay, and M.D. Robinson, Robustly detecting differential expression in RNA sequencing data using observation weights. Nucleic Acids Res, 2014. 42(11): p. e91.
+
